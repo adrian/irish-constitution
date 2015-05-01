@@ -326,13 +326,25 @@ All revenues of the State from whatever source arising shall, subject to such ex
 
 3. The nominated members of Seanad Éireann shall be nominated, with their prior consent, by the Taoiseach who is appointed next after the reassembly of Dáil Éireann following the dissolution thereof which occasions the nomination of the said members.
 
-4. The elected members of Seanad Éireann shall be elected as follows:—
+4.  1° The elected members of Seanad Éireann shall be elected as follows:—
 
     i. Three shall be elected by the National University of Ireland.
 
     ii. Three shall be elected by the University of Dublin.
 
     iii. Forty-three shall be elected from panels of candidates constituted as hereinafter provided.
+
+    2° Provision may be made by law for the election, on a franchise and in the manner to be provided by law, by one or more of the following institutions, namely:
+
+    i. the universities mentioned in subsection 1° of this section,
+
+    ii. any other institutions of higher education in the State,
+
+    of so many members of Seanad Éireann as may be fixed by law in substitution for an equal number of the members to be elected pursuant to paragraphs i and ii of the said subsection 1°.
+
+    A member or members of Seanad Éireann may be elected under this subsection by institutions grouped together or by a single institution.
+
+    3° Nothing in this Article shall be invoked to prohibit the dissolution by law of a university mentioned in subsection 1° of this section.
 
 5. Every election of the elected members of Seanad Éireann shall be held on the system of proportional representation by means of the single transferable vote, and by secret postal ballot.
 
