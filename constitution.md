@@ -852,7 +852,15 @@ Treason shall consist only in levying war against the State, or assisting any St
 
 3.  1° The State pledges itself to guard with special care the institution of Marriage, on which the Family is founded, and to protect it against attack.
 
-    2° No law shall be enacted providing for the grant of a dissolution of marriage.
+    2° A Court designated by law may grant a dissolution of marriage where, but only where, it is satisfied that -
+
+    i. at the date of the institution of the proceedings, the spouses have lived apart from one another for a period of, or periods amounting to, at least four years during the previous five years,
+
+    ii. there is no reasonable prospect of a reconciliation between the spouses,
+
+    iii. such provision as the Court considers proper having regard to the circumstances exists or will be made for the spouses, any children of either or both of them and any other person prescribed by law, and
+
+    iv. any further conditions prescribed by law are complied with.
 
     3° No person whose marriage has been dissolved under the civil law of any other State but is a subsisting valid marriage under the law for the time being in force within the jurisdiction of the Government and Parliament established by this Constitution shall be capable of contracting a valid marriage within that jurisdiction during the lifetime of the other party to the marriage so dissolved.
 
