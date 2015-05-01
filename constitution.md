@@ -802,6 +802,8 @@ Treason shall consist only in levying war against the State, or assisting any St
 
     3° The State acknowledges the right to life of the unborn and, with due regard to the equal right to life of the mother, guarantees in its laws to respect, and, as far as practicable, by its laws to defend and vindicate that right.
 
+    This subsection shall not limit freedom to travel between the State and another state.
+
 4.  1° No citizen shall be deprived of his personal liberty save in accordance with law.
 
     2° Upon complaint being made by or on behalf of any person to the High Court or any judge thereof alleging that such person is being unlawfully detained, the High Court and any and every judge thereof to whom such complaint is made shall forthwith enquire into the said complaint and may order the person in whose custody such person is detained to produce the body of such person before the High Court on a named day and to certify in writing the grounds of his detention, and the High Court shall, upon the body of such person being produced before that Court and after giving the person in whose custody he is detained an opportunity of justifying the detention, order the release of such person from such detention unless satisfied that he is being detained in accordance with the law.
