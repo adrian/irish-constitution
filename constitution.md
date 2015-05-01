@@ -598,7 +598,13 @@ This Article applies to any Bill, other than a Bill expressed to be a Bill conta
 
     2° For the purpose of the exercise of any executive function of the State in or in connection with its external relations, the Government may to such extent and subject to such conditions, if any, as may be determined by law, avail of or adopt any organ, instrument, or method of procedure used or adopted for the like purpose by the members of any group or league of nations with which the State is or becomes associated for the purpose of international co-operation in matters of common concern.
 
-    3° The State may become a member of the European Coal and Steel Community (established by Treaty signed at Paris on the 18th day of April, 1951), the European Economic Community (established by Treaty signed at Rome on the 25th day of March, 1957) and the European Atomic Energy Community (established by Treaty signed at Rome on the 25th day of March, 1957). The State may ratify the Single European Act (signed on behalf of the Member States of the Communities at Luxembourg on the 17th day of February, 1986, and at The Hague on the 28th day of February, 1986). No provision of this Constitution invalidates laws enacted, acts done or measures adopted by the State necessitated by the obligations of membership of the Communities or prevents laws enacted, acts done or measures adopted by the Communities, or institutions thereof, from having the force of law in the State.
+    3° The State may become a member of the European Coal and Steel Community (established by Treaty signed at Paris on the 18th day of April, 1951), the European Economic Community (established by Treaty signed at Rome on the 25th day of March, 1957) and the European Atomic Energy Community (established by Treaty signed at Rome on the 25th day of March, 1957). The State may ratify the Single European Act (signed on behalf of the Member States of the Communities at Luxembourg on the 17th day of February, 1986, and at The Hague on the 28th day of February, 1986).
+
+    4° The State may ratify the Treaty on European Union signed at Maastricht on the 7th day of February, 1992, and may become a member of that Union.
+
+    5° No provision of this Constitution invalidates laws enacted, acts done or measures adopted by the State which are necessitated by the obligations of membership of the European Union or of the Communities, or prevents laws enacted, acts done or measures adopted by the European Union or by the Communities or by institutions thereof, or by bodies competent under the Treaties establishing the Communities, from having the force of law in the State.
+
+    6° The State may ratify the Agreement relating to Community Patents drawn up between the Member States of the Communities and done at Luxembourg on the 15th day of December, 1989.
 
 5.  1° Every international agreement to which the State becomes a party shall be laid before Dáil Éireann.
 
