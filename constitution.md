@@ -858,11 +858,7 @@ Treason shall consist only in levying war against the State, or assisting any St
 
 ##### ARTICLE 44
 
-1.  1° The State acknowledges that the homage of public worship is due to Almighty God. It shall hold His Name in reverence, and shall respect and honour religion.
-
-    2° The State recognises the special position of the Holy Catholic Apostolic and Roman Church as the guardian of the Faith professed by the great majority of the citizens.
-
-    3° The State also recognises the Church of Ireland, the Presbyterian Church in Ireland, the Methodist Church in Ireland, the Religious Society of Friends in Ireland, as well as the Jewish Congregations and the other religious denominations existing in Ireland at the date of the coming into operation of this Constitution.
+1. The State acknowledges that the homage of public worship is due to Almighty God. It shall hold His Name in reverence, and shall respect and honour religion.
 
 2.  1° Freedom of conscience and the free profession and practice of religion are, subject to public order and morality, guaranteed to every citizen.
 
