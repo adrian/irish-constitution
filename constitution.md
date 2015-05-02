@@ -178,7 +178,7 @@ All revenues of the State from whatever source arising shall, subject to such ex
 
     2° All commissioned officers of the Defence Forces shall hold their commissions from the President.
 
-6. The right of pardon and the power to commute or remit punishment imposed by any court exercising criminal jurisdiction are hereby vested in the President, but such power of commutation or remission may, except in capital cases, also be conferred by law on other authorities.
+6. The right of pardon and the power to commute or remit punishment imposed by any court exercising criminal jurisdiction are hereby vested in the President, but such power of commutation or remission may also be conferred by law on other authorities.
 
 7.  1° The President may, after consultation with the Council of State, communicate with the Houses of the Oireachtas by message or address on any matter of national or public importance.
 
@@ -240,7 +240,9 @@ All revenues of the State from whatever source arising shall, subject to such ex
 
     2° Every law enacted by the Oireachtas which is in any respect repugnant to this Constitution or to any provision thereof, shall, but to the extent only of such repugnancy, be invalid.
 
-5. The Oireachtas shall not declare acts to be infringements of the law which were not so at the date of their commission.
+5.  1° The Oireachtas shall not declare acts to be infringements of the law which were not so at the date of their commission.
+
+    2° The Oireachtas shall not enact any law providing for the imposition of the death penalty.
 
 6.  1° The right to raise and maintain military or armed forces is vested exclusively in the Oireachtas.
 
@@ -546,7 +548,7 @@ This Article applies to any Bill, other than a Bill expressed to be a Bill conta
 
     2° In the case of actual invasion, however, the Government may take whatever steps they may consider necessary for the protection of the State, and Dáil Éireann if not sitting shall be summoned to meet at the earliest practicable date.
 
-    3° Nothing in this Constitution shall be invoked to invalidate any law enacted by the Oireachtas which is expressed to be for the purpose of securing the public safety and the preservation of the State in time of war or armed rebellion, or to nullify any act done or purporting to be done in time of war or armed rebellion in pursuance of any such law. In this sub-section "time of war" includes a time when there is taking place an armed conflict in which the State is not a participant but in respect of which each of the Houses of the Oireachtas shall have resolved that, arising out of such armed conflict, a national emergency exists affecting the vital interests of the State and "time of war or armed rebellion" includes such time after the termination of any war, or of any such armed conflict as aforesaid, or of an armed rebellion, as may elapse until each of the Houses of the Oireachtas shall have resolved that the national emergency occasioned by such war, armed conflict, or armed rebellion has ceased to exist.
+    3° Nothing in this Constitution other than Article 15.5.2° shall be invoked to invalidate any law enacted by the Oireachtas which is expressed to be for the purpose of securing the public safety and the preservation of the State in time of war or armed rebellion, or to nullify any act done or purporting to be done in time of war or armed rebellion in pursuance of any such law. In this subsection "time of war" includes a time when there is taking place an armed conflict in which the State is not a participant but in respect of which each of the Houses of the Oireachtas shall have resolved that, arising out of such armed conflict, a national emergency exists affecting the vital interests of the State and "time of war or armed rebellion" includes such time after the termination of any war, or of any such armed conflict as aforesaid, or of an armed rebellion, as may elapse until each of the Houses of the Oireachtas shall have resolved that the national emergency occasioned by such war, armed conflict, or armed rebellion has ceased to exist.
 
 4.  1° The Government shall be responsible to Dáil Éireann.
 
@@ -846,11 +848,9 @@ Treason shall consist only in levying war against the State, or assisting any St
 
     4° The High Court before which the body of a person alleged to be unlawfully detained is to be produced in pursuance of an order in that behalf made under this section shall, if the President of the High Court or, if he is not available, the senior judge of that Court who is available so directs in respect of any particular case, consist of three judges and shall, in every other case, consist of one judge only.
 
-    5° Where an order is made under this section by the High Court or a judge thereof for the production of the body of a person who is under sentence of death, the High Court or such judge thereof shall further order that the execution of the said sentence of death shall be deferredl untill after the body of such person has been produced before the High Court and the lawfulness of his detention has been determined and if, after such deferment, the detention of such person is determined to be lawful, the High Court shall appoint a day for the execution of the said sentence of death and that sentence shall have effect with the substitution of the day so appointed for the day originally fixed for the execution thereof.
+    5° Nothing in this section, however, shall be invoked to prohibit, control, or interfere with any act of the Defence Forces during the existence of a state of war or armed rebellion.
 
-    6° Nothing in this section, however, shall be invoked to prohibit, control, or interfere with any act of the Defence Forces during the existence of a state of war or armed rebellion.
-
-    7° Provision may be made by law for the refusal of bail by a court to a person charged with a serious offence where it is reasonably considered necessary to prevent the commission of a serious offence by that person.
+    6° Provision may be made by law for the refusal of bail by a court to a person charged with a serious offence where it is reasonably considered necessary to prevent the commission of a serious offence by that person.
 
 5. The dwelling of every citizen is inviolable and shall not be forcibly entered save in accordance with law.
 
