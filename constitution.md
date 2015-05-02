@@ -630,9 +630,15 @@ This Article applies to any Bill, other than a Bill expressed to be a Bill conta
 
     6° The State may exercise the options or discretions provided by or under Articles 1.11, 2.5 and 2.15 of the Treaty referred to in subsection 5° of this section and the second and fourth Protocols set out in the said Treaty but any such exercise shall be subject to the prior approval of both Houses of the Oireachtas.
 
-    7° No provision of this Constitution invalidates laws enacted, acts done or measures adopted by the State which are necessitated by the obligations of membership of the European Union or of the Communities, or prevents laws enacted, acts done or measures adopted by the European Union or by the Communities or by institutions thereof, or by bodies competent under the Treaties establishing the Communities, from having the force of law in the State.
+    7° The State may ratify the Treaty of Nice amending the Treaty on European Union, the Treaties establishing the European Communities and certain related Acts signed at Nice on the 26th day of February, 2001.
 
-    8° The State may ratify the Agreement relating to Community Patents drawn up between the Member States of the Communities and done at Luxembourg on the 15th day of December, 1989.
+    8° The State may exercise the options or discretions provided by or under Articles 1.6, 1.9, 1.11, 1.12, 1.13 and 2.1 of the Treaty referred to in subsection 7° of this section but any such exercise shall be subject to the prior approval of both Houses of the Oireachtas.
+
+    9° The State shall not adopt a decision taken by the European Council to establish a common defence pursuant to Article 1.2 of the Treaty referred to in subsection 7° of this section where that common defence would include the State.
+
+    10° No provision of this Constitution invalidates laws enacted, acts done or measures adopted by the State which are necessitated by the obligations of membership of the European Union or of the Communities, or prevents laws enacted, acts done or measures adopted by the European Union or by the Communities or by institutions thereof, or by bodies competent under the Treaties establishing the Communities, from having the force of law in the State.
+
+    11° The State may ratify the Agreement relating to Community Patents drawn up between the Member States of the Communities and done at Luxembourg on the 15th day of December, 1989.
 
 5.  1° Every international agreement to which the State becomes a party shall be laid before Dáil Éireann.
 
