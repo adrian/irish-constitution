@@ -592,6 +592,20 @@ This Article applies to any Bill, other than a Bill expressed to be a Bill conta
 
 12. The following matters shall be regulated in accordance with law, namely, the organization of, and distribution of business amongst, Departments of State, the designation of members of the Government to be the Ministers in charge of the said Departments, the discharge of the functions of the office of a member of the Government during his temporary absence or incapacity, and the remuneration of the members of the Government.
 
+## LOCAL GOVERNMENT
+
+##### ARTICLE 28A
+
+1. The State recognises the role of local government in providing a forum for the democratic representation of local communities, in exercising and performing at local level powers and functions conferred by law and in promoting by its initiatives the interests of such communities.
+
+2. There shall be such directly elected local authorities as may be determined by law and their powers and functions shall, subject to the provisions of this Constitution, be so determined and shall be exercised and performed in accordance with law.
+
+3. Elections for members of such local authorities shall be held in accordance with law not later than the end of the fifth year after the year in which they were last held.
+
+4. Every citizen who has the right to vote at an election for members of Dáil Éireann and such other persons as may be determined by law shall have the right to vote at an election for members of such of the local authorities referred to in section 2 of this Article as shall be determined by law.
+
+5. Casual vacancies in the membership of local authorities referred to in section 2 of this Article shall be filled in accordance with law.
+
 ## INTERNATIONAL RELATIONS
 
 ##### ARTICLE 29
