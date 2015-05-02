@@ -648,6 +648,8 @@ This Article applies to any Bill, other than a Bill expressed to be a Bill conta
 
 8. The State may exercise extra-territorial jurisdiction in accordance with the generally recognised principles of international law.
 
+9. The State may ratify the Rome Statute of the International Criminal Court done at Rome on the 17th day of July, 1998.
+
 ## THE ATTORNEY GENERAL
 
 ##### ARTICLE 30
