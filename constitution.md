@@ -132,7 +132,7 @@ All revenues of the State from whatever source arising shall, subject to such ex
 
 7. The first President shall enter upon his office as soon as may be after his election, and every subsequent President shall enter upon his office on the day following the expiration of the term of office of his predecessor or as soon as may be thereafter or, in the event of his predecessor's removal from office, death, resignation, or permanent incapacity established as provided by section 3 hereof, as soon as may be after the election.
 
-8. The President shall enter upon his office by taking and subscribing publicly, in the presence of members of both Houses of the Oireachtas, of Judges of the Supreme Court and of the High Court, and other public personages, the following declaration:
+8.  The President shall enter upon his office by taking and subscribing publicly, in the presence of members of both Houses of the Oireachtas, of Judges of the Supreme Court, of the Court of Appeal and of the High Court, and other public personages, the following declaration:
 
     "In the presence of Almighty God I do solemnly and sincerely promise and declare that I will maintain the Constitution of Ireland and uphold its laws, that I will fulfil my duties faithfully and conscientiously in accordance with the Constitution and the law, and that I will dedicate my abilities to the service and welfare of the people of Ireland. May God direct and sustain me."
 
@@ -206,7 +206,7 @@ All revenues of the State from whatever source arising shall, subject to such ex
 
 2.  1° The Commission shall consist of the following persons, namely, the Chief Justice, the Chairman of Dáil Éireann (An Ceann Comhairle), and the Chairman of Seanad Éireann.
 
-    2° The President of the High Court shall act as a member of the Commission in the place of the Chief Justice on any occasion on which the office of Chief Justice is vacant or on which the Chief Justice is unable to act.
+    2° The President of the Court of Appeal shall act as a member of the Commission in the place of the Chief Justice on any occasion on which the office of Chief Justice is vacant or on which the Chief Justice is unable to act.
 
     3° The Deputy Chairman of Dáil Éireann shall act as a member of the Commission in the place of the Chairman of Dáil Éireann on any occasion on which the office of Chairman of Dáil Éireann is vacant or on which the said Chairman is unable to act.
 
@@ -712,7 +712,7 @@ This Article applies to any Bill, other than a Bill expressed to be a Bill conta
 
 2.  The Council of State shall consist of the following members:
 
-    i. As ex-officio members: the Taoiseach, the Tánaiste, the Chief Justice, the President of the High Court, the Chairman of Dáil Éireann, the Chairman of Seanad Éireann, and the Attorney General.
+    i. As ex-officio members: the Taoiseach, the Tánaiste, the Chief Justice, the President of the Court of Appeal, the President of the High Court, the Chairman of Dáil Éireann, the Chairman of Seanad Éireann, and the Attorney General.
 
     ii. Every person able and willing to act as a member of the Council of State who shall have held the office of President, or the office of Taoiseach, or the office of Chief Justice, or the office of President of the Executive Council of Saorstát Éireann.
 
@@ -762,47 +762,83 @@ The President shall not exercise or perform any of the powers or functions which
 
 1. Justice shall be administered in courts established by law by judges appointed in the manner provided by this Constitution, and, save in such special and limited cases as may be prescribed by law, shall be administered in public.
 
-2. The Courts shall comprise Courts of First Instance and a Court of Final Appeal.
+2.  The Courts shall comprise:
+
+    i. Courts of First Instance;
+
+    ii. a Court of Appeal; and
+
+    iii. a Court of Final Appeal.
 
 3.  1° The Courts of First Instance shall include a High Court invested with full original jurisdiction in and power to determine all matters and questions whether of law or fact, civil or criminal.
 
-    2° Save as otherwise provided by this Article, the jurisdiction of the High Court shall extend to the question of the validity of any law having regard to the provisions of this Constitution, and no such question shall be raised (whether by pleading, argument or otherwise) in any Court established under this or any other Article of this Constitution other than the High Court or the Supreme Court.
+    2° Save as otherwise provided by this Article, the jurisdiction of the High Court shall extend to the question of the validity of any law having regard to the provisions of this Constitution, and no such question shall be raised (whether by pleading, argument or otherwise) in any Court established under this or any other Article of this Constitution other than the High Court, the Court of Appeal or the Supreme Court.
 
     3° No Court whatever shall have jurisdiction to question the validity of a law, or any provision of a law, the Bill for which shall have been referred to the Supreme Court by the President under Article 26 of this Constitution, or to question the validity of a provision of a law where the corresponding provision in the Bill for such law shall have been referred to the Supreme Court by the President under the said Article 26.
 
     4° The Courts of First Instance shall also include Courts of local and limited jurisdiction with a right of appeal as determined by law.
 
-4.  1° The Court of Final Appeal shall be called the Supreme Court.
+4.  1° The Court of Appeal shall—
+
+    i. save as otherwise provided by this Article, and
+
+    ii. with such exceptions and subject to such regulations as may be prescribed by law,
+
+    have appellate jurisdiction from all decisions of the High Court, and shall also have appellate jurisdiction from such decisions of other courts as may be prescribed by law.
+
+    2° No law shall be enacted excepting from the appellate jurisdiction of the Court of Appeal cases which involve questions as to the validity of any law having regard to the provisions of this Constitution.
+
+    3° The decision of the Court of Appeal shall be final and conclusive, save as otherwise provided by this Article.
+
+5.  1° The Court of Final Appeal shall be called the Supreme Court.
 
     2° The president of the Supreme Court shall be called the Chief Justice.
 
-    3° The Supreme Court shall, with such exceptions and subject to such regulations as may be prescribed by law, have appellate jurisdiction from all decisions of the High Court, and shall also have appellate jurisdiction from such decisions of other courts as may be prescribed by law.
+    3° The Supreme Court shall, subject to such regulations as may be prescribed by law, have appellate jurisdiction from a decision of the Court of Appeal if the Supreme Court is satisfied that—
 
-    4° No law shall be enacted excepting from the appellate jurisdiction of the Supreme Court cases which involve questions as to the validity of any law having regard to the provisions of this Constitution.
+    i. the decision involves a matter of general public importance, or
 
-    5° The decision of the Supreme Court on a question as to the validity of a law having regard to the provisions of this Constitution shall be pronounced by such one of the judges of that Court as that Court shall direct, and no other opinion on such question, whether assenting or dissenting, shall be pronounced, nor shall the existence of any such other opinion be disclosed.
+    ii. in the interests of justice it is necessary that there be an appeal to the Supreme Court.
+
+    4° Notwithstanding section 4.1° hereof, the Supreme Court shall, subject to such regulations as may be prescribed by law, have appellate jurisdiction from a decision of the High Court if the Supreme Court is satisfied that there are exceptional circumstances warranting a direct appeal to it, and a precondition for the Supreme Court being so satisfied is the presence of either or both of the following factors:
+
+    i. the decision involves a matter of general public importance;
+
+    ii. the interests of justice.
+
+    5° No law shall be enacted excepting from the appellate jurisdiction of the Supreme Court cases which involve questions as to the validity of any law having regard to the provisions of this Constitution.
 
     6° The decision of the Supreme Court shall in all cases be final and conclusive.
 
-5.  1° Every person appointed a judge under this Constitution shall make and subscribe the following declaration:
+6.  1° Every person appointed a judge under this Constitution shall make and subscribe the following declaration:
 
     "In the presence of Almighty God I do solemnly and sincerely promise and declare that I will duly and faithfully and to the best of my knowledge and power execute the office of Chief Justice (or as the case may be) without fear or favour, affection or ill-will towards any man, and that I will uphold the Constitution and the laws. May God direct and sustain me."
 
-    2° This declaration shall be made and subscribed by the Chief Justice in the presence of the President, and by each of the other judges of the Supreme Court, the judges of the High Court and the judges of every other Court in the presence of the Chief Justice or the senior available judge of the Supreme Court in open court.
+    2° This declaration shall be made and subscribed by the Chief Justice in the presence of the President, and by each of the other judges of the Supreme Court, the judges of the Court of Appeal, the judges of the High Court and the judges of every other Court in the presence of the Chief Justice or the senior available judge of the Supreme Court in open court.
 
     3° The declaration shall be made and subscribed by every judge before entering upon his duties as such judge, and in any case not later than ten days after the date of his appointment or such later date as may be determined by the President.
 
     4° Any judge who declines or neglects to make such declaration as aforesaid shall be deemed to have vacated his office.
 
+##### ARTICLE 34A
+
+1. The Court of Appeal referred to in paragraph ii of Article 34.2 hereof ("the Court of Appeal") shall be established in accordance with this Article.
+
+2. As soon as practicable after the enactment of this Article, a law providing for the establishment of the Court of Appeal shall be enacted.
+
+3. That law shall require the Government to appoint by order a day ("the establishment day") on which the Court of Appeal shall be established by virtue of that law; an order of the Government as aforesaid shall operate to have that effect accordingly.
+
+4. This Article shall be omitted from every official text of this Constitution published after the establishment day.
+
 ##### ARTICLE 35
 
-1. The judges of the Supreme Court, the High Court and all other Court established in pursuance of Article 34 hereof shall be appointed be the President.
+1. The judges of the Supreme Court, the Court of Appeal, the High Court and all other Courts established in pursuance of Article 34 hereof shall be appointed by the President.
 
 2. All judges shall be independent in the exercise of their judicial functions and subject only to this Constitution and the law.
 
 3. No judge shall be eligible to be a member of either House of the Oireachtas or to hold any other office or position of emolument.
 
-4.  1° A judge of the Supreme Court or the High Court shall not be removed from office except for stated misbehaviour or incapacity, and then only upon resolutions passed by Dáil Éireann and by Seanad Éireann calling for his removal.
+4.  1° A judge of the Supreme Court, the Court of Appeal, or the High Court shall not be removed from office except for stated misbehaviour or incapacity, and then only upon resolutions passed by Dáil Éireann and by Seanad Éireann calling for his removal.
 
     2° The Taoiseach shall duly notify the President of any such resolutions passed by Dáil Éireann and by Seanad Éireann, and shall send him a copy of every such resolution certified by the Chairman of the House of the Oireachtas by which it shall have been passed.
 
@@ -818,7 +854,7 @@ The President shall not exercise or perform any of the powers or functions which
 
 Subject to the foregoing provisions of this Constitution relating to the Courts, the following matters shall be regulated in accordance with law, that is to say:-
 
-i. the number of judges of the Supreme Court, and of the High Court, the remuneration, age of retirement and pensions of such judges,
+i. the number of judges of the Supreme Court, of the Court of Appeal, and of the High Court, the remuneration, age of retirement and pensions of such judges,
 
 ii. the number of the judges of all other Courts, and their terms of appointment, and
 
@@ -882,7 +918,7 @@ Treason shall consist only in levying war against the State, or assisting any St
 
     2° Upon complaint being made by or on behalf of any person to the High Court or any judge thereof alleging that such person is being unlawfully detained, the High Court and any and every judge thereof to whom such complaint is made shall forthwith enquire into the said complaint and may order the person in whose custody such person is detained to produce the body of such person before the High Court on a named day and to certify in writing the grounds of his detention, and the High Court shall, upon the body of such person being produced before that Court and after giving the person in whose custody he is detained an opportunity of justifying the detention, order the release of such person from such detention unless satisfied that he is being detained in accordance with the law.
 
-    3° Where the body of a person alleged to be unlawfully detained is produced before the High Court in pursuance of an order in that behalf made under this section and that Court is satisfied that such person is being detained in accordance with a law but that such law is invalid having regard to the provisions of this Constitution, the High Court shall refer the question of the validity of such law to the Supreme Court by way of case stated and may, at the time of such reference or at any time thereafter, allow the said person to be at liberty on such bail and subject to such conditions as the High Court shall fix until the Supreme Court has determined the question so referred to it.
+    3° Where the body of a person alleged to be unlawfully detained is produced before the High Court in pursuance of an order in that behalf made under this section and that Court is satisfied that such person is being detained in accordance with a law but that such law is invalid having regard to the provisions of this Constitution, the High Court shall refer the question of the validity of such law to the Court of Appeal by way of case stated and may, at the time of such reference or at any time thereafter, allow the said person to be at liberty on such bail and subject to such conditions as the High Court shall fix until the Court of Appeal has determined the question so referred to it.
 
     4° The High Court before which the body of a person alleged to be unlawfully detained is to be produced in pursuance of an order in that behalf made under this section shall, if the President of the High Court or, if he is not available, the senior judge of that Court who is available so directs in respect of any particular case, consist of three judges and shall, in every other case, consist of one judge only.
 
@@ -1187,6 +1223,36 @@ ii. on such earlier day after such approval as may be fixed by a resolution of D
 ##### ARTICLE 63
 
 A copy of this Constitution signed by the Taoiseach, the Chief Justice, and the Chairman of Dáil Éireann, shall be enrolled for record in the office of the Registrar of the Supreme Court, and such signed copy shall be conclusive evidence of the provisions of this Constitution. In case of conflict between the Irish and the English texts, the Irish text shall prevail.
+
+#### Article 64
+
+1. In this Article "the establishment day" has the same meaning as it has in Article 34A of this Constitution.
+
+2.  1° Sections 3 and 4 hereof apply to an appeal to the Supreme Court initiated before the establishment day that has not been heard, in full or in part, by the Supreme Court before that day.
+
+    2° For the purposes of this Article, an appeal shall not be taken to have been heard in part by reason of the Supreme Court having heard an interlocutory application relating to the appeal or, unless the appeal itself is confined to a procedural matter, the Supreme Court having heard any procedural application or motion in the matter.
+
+3.  1° On or after the establishment day, the Chief Justice may, if the Chief Justice is satisfied that it is in the interests of the administration of justice and the efficient determination of appeals to do so, and with the concurrence of the other judges of the Supreme Court, give a direction under the seal of the Court providing that each appeal to which this section applies falling within a class of appeals specified in the direction shall be heardand determined by the Court of Appeal and, where such a direction is given, the Court of Appeal shall, subject to subsection 3° hereof, have jurisdiction to hear and determine each appeal the subject of that direction accordingly.
+
+    2° A direction under subsection 1° hereof may contain provision for any matter that the Chief Justice considers it appropriate to provide for in consequence of the appeals concerned being heard and determined by the Court of Appeal and any such provision shall have like effect to a provision contained in an order made by the Supreme Court.
+
+    3° The Supreme Court, on application to it that complies with such, if any, regulations as may be prescribed by law and made by any of the parties to an appeal the subject of a direction under subsection 1°, may, if it is satisfied that it is just to do so, make an order—
+
+    i. cancelling the effect of that direction, or
+
+    ii. cancelling or varying the effect of any provision, referred to in subsection 2° hereof, of that direction,
+
+    so far as it relates to that appeal.
+
+4.  1° If, on application to it that complies with such, if any, regulations as may be prescribed by law and made by any of the parties to the appeal, the Supreme Court is satisfied that it is in the interests of the administration of justice and the efficient determination of appeals to do so, the Supreme Court may make an order providing that the appeal shall be heard and determined by the Court of Appeal and, where such an order is made, the Court of Appeal shall have jurisdiction to hear and determine the appeal accordingly.
+
+    2° An order under subsection 1° hereof may contain provision for any matter that the Supreme Court considers it appropriate to provide for in consequence of the appeal being heard and determined by the Court of Appeal.
+
+5. Save to the extent provided by any direction given or order made pursuant to the powers conferred by section 3 or 4 hereof, the exercise by the Supreme Court of its jurisdiction in relation to appeals to that Court initiated before the establishment day shall not be affected by the amendments of this Constitution made by the Thirty-third Amendment of the Constitution (Court of Appeal) Act 2013.
+
+6. Notwithstanding any amendments of this Constitution made as aforesaid, the Supreme Court shall continue to have appellate jurisdiction from decisions of the Court of Criminal Appeal that stood established before the establishment day to the extent provided, and subject to the same regulations as were prescribed, by law immediately before the establishment day, and sections 3 and 4 hereof shall not apply to an appeal from a decision of the Court of Criminal Appeal.
+
+7. This Article shall be omitted from every official text of this Constitution published on or following the expiry of one year after the establishment day.
 
 Dochum Glóire Dé
 
