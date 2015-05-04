@@ -506,7 +506,7 @@ This Article applies to any Bill, other than a Bill expressed to be a Bill conta
 
     2° In the case of actual invasion, however, the Government may take whatever steps they may consider necessary for the protection of the State, and Dáil Éireann if not sitting shall be summoned to meet at the earliest practicable date.
 
-    3° Nothing in this Constitution shall be invoked to invalidate any law enacted by the Oireachtas which is expressed to be for the purpose of securing the public safety and the preservation of the State in time of war or armed rebellion, or to nullify any act done or purporting to be done in pursuance of any such law.
+    3° Nothing in this Constitution shall be invoked to invalidate any law enacted by the Oireachtas which is expressed to be for the purpose of securing the public safety and the preservation of the State in time of war or armed rebellion, or to nullify any act done or purporting to be done in pursuance of any such law. In this sub-section "time of war" includes a time when there is taking place an armed conflict in which the State is not a participant but in respect of which each of the Houses of the Oireachtas shall have resolved that, arising out of such armed conflict, a national emergency exists affecting the vital interests of the State.
 
 4.  1° The Government shall be responsible to Dáil Éireann.
 
