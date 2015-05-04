@@ -806,7 +806,11 @@ The President shall not exercise or perform any of the powers or functions which
 
     3° Upon receipt of such notification and of copies of such resolutions, the President shall forthwith, by an order under his hand and Seal, remove from office the judge to whom they relate.
 
-5. The remuneration of a judge shall not be reduced during his continuance in office.
+5.  1° The remuneration of judges shall not be reduced during their continuance in office save in accordance with this section.
+
+    2° The remuneration of judges is subject to the imposition of taxes, levies or other charges that are imposed by law on persons generally or persons belonging to a particular class.
+
+    3° Where, before or after the enactment of this section, reductions have been or are made by law to the remuneration of persons belonging to classes of persons whose remuneration is paid out of public money and such law states that those reductions are in the public interest, provision may also be made by law to make proportionate reductions to the remuneration of judges.
 
 ##### ARTICLE 36
 
