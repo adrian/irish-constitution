@@ -108,7 +108,7 @@ All revenues of the State from whatever source arising shall, subject to such ex
 
     3° An election for the office of President shall be held not later than, and not earlier than the sixtieth day before, the date of the expiration of the term of office of every President, but in the event of the removal from office of the President or of his death, resignation, or permanent incapacity established as aforesaid (whether occurring before or after he enters upon his office), an election for the office of President shall be held within sixty days after such event.
 
-4.  1° Every citizen who has reached his thirty-fifth year of age is eligible for election to the office of President.
+4.  1° Every citizen who has reached the age of twenty-one years is eligible for election to the office of President.
 
     2° Every candidate for election, not a former or retiring President, must be nominated either by:
 
