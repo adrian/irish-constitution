@@ -972,6 +972,8 @@ Treason shall consist only in levying war against the State, or assisting any St
 
     3° No person whose marriage has been dissolved under the civil law of any other State but is a subsisting valid marriage under the law for the time being in force within the jurisdiction of the Government and Parliament established by this Constitution shall be capable of contracting a valid marriage within that jurisdiction during the lifetime of the other party to the marriage so dissolved.
 
+4. Marriage may be contracted in accordance with law by two persons without distinction as to their sex.
+
 ### EDUCATION
 
 ##### ARTICLE 42
