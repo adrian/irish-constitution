@@ -908,11 +908,7 @@ Treason shall consist only in levying war against the State, or assisting any St
 
     2° The State shall, in particular, by its laws protect as best it may from unjust attack and, in the case of injustice done, vindicate the life, person, good name, and property rights of every citizen.
 
-    3° The State acknowledges the right to life of the unborn and, with due regard to the equal right to life of the mother, guarantees in its laws to respect, and, as far as practicable, by its laws to defend and vindicate that right.
-
-    This subsection shall not limit freedom to travel between the State and another state.
-
-    This subsection shall not limit freedom to obtain or make available, in the State, subject to such conditions as may be laid down by law, information relating to services lawfully available in another state.
+    3° Provision may be made by law for the regulation of termination of pregnancy.
 
 4.  1° No citizen shall be deprived of his personal liberty save in accordance with law.
 
