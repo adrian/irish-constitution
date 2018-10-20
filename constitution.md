@@ -930,7 +930,7 @@ Treason shall consist only in levying war against the State, or assisting any St
 
     The education of public opinion being, however, a matter of such grave import to the common good, the State shall endeavour to ensure that organs of public opinion, such as the radio, the press, the cinema, while preserving their rightful liberty of expression, including criticism of Government policy, shall not be used to undermine public order or morality or the authority of the State.
 
-    The publication or utterance of blasphemous, seditious, or indecent matter is an offence which shall be punishable in accordance with law.
+    The publication or utterance of seditious or indecent matter is an offence which shall be punishable in accordance with law.
 
     ii. The right of the citizens to assemble peaceably and without arms.
 
