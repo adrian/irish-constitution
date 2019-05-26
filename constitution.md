@@ -958,15 +958,13 @@ Treason shall consist only in levying war against the State, or assisting any St
 
     2° A Court designated by law may grant a dissolution of marriage where, but only where, it is satisfied that -
 
-    i. at the date of the institution of the proceedings, the spouses have lived apart from one another for a period of, or periods amounting to, at least four years during the previous five years,
+    i. there is no reasonable prospect of a reconciliation between the spouses,
 
-    ii. there is no reasonable prospect of a reconciliation between the spouses,
+    ii. such provision as the Court considers proper having regard to the circumstances exists or will be made for the spouses, any children of either or both of them and any other person prescribed by law, and
 
-    iii. such provision as the Court considers proper having regard to the circumstances exists or will be made for the spouses, any children of either or both of them and any other person prescribed by law, and
+    iii. any further conditions prescribed by law are complied with.
 
-    iv. any further conditions prescribed by law are complied with.
-
-    3° No person whose marriage has been dissolved under the civil law of any other State but is a subsisting valid marriage under the law for the time being in force within the jurisdiction of the Government and Parliament established by this Constitution shall be capable of contracting a valid marriage within that jurisdiction during the lifetime of the other party to the marriage so dissolved.
+    3° Provision may be made by law for the recognition under the law of the State of a dissolution of marriage granted under the civil law of another state.
 
 4. Marriage may be contracted in accordance with law by two persons without distinction as to their sex.
 
