@@ -950,11 +950,7 @@ Treason shall consist only in levying war against the State, or assisting any St
 
     2° The State, therefore, guarantees to protect the Family in its constitution and authority, as the necessary basis of social order and as indispensable to the welfare of the Nation and the State.
 
-2.  1° In particular, the State recognises that by her life within the home, woman gives to the State a support without which the common good cannot be achieved.
-
-    2° The State shall, therefore, endeavour to ensure that mothers shall not be obliged by economic necessity to engage in labour to the neglect of their duties in the home.
-
-3.  1° The State pledges itself to guard with special care the institution of Marriage, on which the Family is founded, and to protect it against attack.
+2.  1° The State pledges itself to guard with special care the institution of Marriage, on which the Family is founded, and to protect it against attack.
 
     2° A Court designated by law may grant a dissolution of marriage where, but only where, it is satisfied that -
 
@@ -966,7 +962,7 @@ Treason shall consist only in levying war against the State, or assisting any St
 
     3° Provision may be made by law for the recognition under the law of the State of a dissolution of marriage granted under the civil law of another state.
 
-4. Marriage may be contracted in accordance with law by two persons without distinction as to their sex.
+3. Marriage may be contracted in accordance with law by two persons without distinction as to their sex.
 
 ### EDUCATION
 
@@ -1001,6 +997,12 @@ Treason shall consist only in levying war against the State, or assisting any St
     ii. concerning the adoption, guardianship or custody of, or access to, any child, the best interests of the child shall be the paramount consideration.
 
     2° Provision shall be made by law for securing, as far as practicable, that in all proceedings referred to in subsection 1° of this section in respect of any child who is capable of forming his or her own views, the views of the child shall be ascertained and given due weight having regard to the age and maturity of the child.
+
+##### Article 42B
+
+The State recognises that the provision of care, by members of a family to one another by
+reason of the bonds that exist among them, gives to Society a support without which the
+common good cannot be achieved, and shall strive to support such provision.
 
 ### PRIVATE PROPERTY
 
